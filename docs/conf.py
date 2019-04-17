@@ -34,7 +34,7 @@ import re
 
 extensions = ['sphinx_js']
 primary_domain = 'js'
-js_source_path = '../src'
+js_source_path = './'
 jsdoc_config_path = './conf.json'
 
 # SCV options
